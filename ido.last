@@ -1,0 +1,29 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/oyanay/" . ".emacs.d/")
+ ("/Users/oyanay/.emacs.d/" . "customizations/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/oyanay/.emacs.d/customizations/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ui.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/oyanay/.emacs.d/" (23693 23302 258754 553000) ".smex-items" "backups/" "themes/" ".git/" "elpa/" ".recentf" "init.el" "auto-save-list/" "projectile-bookmarks.eld" "customizations/" "ido.last" "../" "./")
+
+ ("/Users/oyanay/.emacs.d/customizations/" (23693 20906 222034 170000) "elisp-editing.el" "setup-js.el" "navigation.el" "editing.el" "setup-clojure.el" "misc.el" "shell-integration.el" "ui.el" "../" "./")
+
+ ("/Users/oyanay/" (23693 21978 875830 526000) "miniconda3/" ".kotlinc_history" ".viminfo" ".bash_history" ".gitconfig" ".aws/" ".cache/" ".python_history" "Downloads/" ".oh-my-zsh/" ".bash_profile" ".m2/" ".vscode/" "venv/" "Documents/" ".npm/" ".gitflow_export" "IdeaProjects/" "dev/" ".Trash/" ".zinc/" ".gradle/" ".ghc/" "Applications/" ".vimrc" "Movies/" ".ssh/" ".gitignore" "logs/" "Public/" ".lein/" ".bash_sessions/" ".zcompdump-obil-oyanay-5.3" ".cups/" ".android/" ".emacs.d/" ".dyptok" ".oracle_jre_usage/" ".lesshst" "Library/" "Desktop/" ".zsh_history" ".capsule/" ".mysqlsh/" ".clojure_history" "Pictures/" ".local/" ".zshrc" ".subversion/" "bin/" ".hgignore_global" ".CFUserTextEncoding" ".DS_Store" "go/" ".vim/" "temp/" ".docker/" ".clojure/" ".idea-build/" "Music/" ".config/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
